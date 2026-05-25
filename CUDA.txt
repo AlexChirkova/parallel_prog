@@ -1,0 +1,35 @@
+Block configs: 8x8
+Time for matrix 200*200: 0.0003472384 sec.
+Time for matrix 400*400: 0.00159785 sec.
+Time for matrix 600*600: 0.007345555000000001 sec.
+Time for matrix 800*800: 0.01651815 sec.
+Time for matrix 1000*1000: 0.03396340999999999 sec.
+Time for matrix 1200*1200: 0.06711717 sec.
+Time for matrix 1400*1400: 0.10154116000000002 sec.
+Time for matrix 1600*1600: 0.15975799999999998 sec.
+Time for matrix 1800*1800: 0.2230905 sec.
+Time for matrix 2000*2000: 0.28614890000000004 sec.
+
+Block configs: 16x16
+Time for matrix 200*200: 0.000282624 sec.
+Time for matrix 400*400: 0.001103662 sec.
+Time for matrix 600*600: 0.004092720999999999 sec.
+Time for matrix 800*800: 0.009647615000000002 sec.
+Time for matrix 1000*1000: 0.02004479 sec.
+Time for matrix 1200*1200: 0.03537541000000001 sec.
+Time for matrix 1400*1400: 0.05687512 sec.
+Time for matrix 1600*1600: 0.07972464 sec.
+Time for matrix 1800*1800: 0.12953810000000002 sec.
+Time for matrix 2000*2000: 0.1761151 sec.
+
+Block configs: 32x32
+Time for matrix 200*200: 0.00027432 sec.
+Time for matrix 400*400: 0.001113904 sec.
+Time for matrix 600*600: 0.004274175999999999 sec.
+Time for matrix 800*800: 0.009693902 sec.
+Time for matrix 1000*1000: 0.0207151 sec.
+Time for matrix 1200*1200: 0.03280189000000001 sec.
+Time for matrix 1400*1400: 0.051999329999999996 sec.
+Time for matrix 1600*1600: 0.07197328 sec.
+Time for matrix 1800*1800: 0.11436871999999998 sec.
+Time for matrix 2000*2000: 0.150355 sec.

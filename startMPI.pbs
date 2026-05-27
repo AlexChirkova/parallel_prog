@@ -1,0 +1,8 @@
+#!/bin/bash
+#SBATCH --job-name=Lab5	
+#SBATCH --time=0:05:00
+#SBATCH --ntasks-per-node=1
+#SBATCH --partition batch
+
+module load intel/mpi4
+mpirun -np 40 ./Lab5
